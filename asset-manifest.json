@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LearnToCode/static/css/main.31d6cfe0.css",
+    "main.js": "/LearnToCode/static/js/main.656aaead.js",
+    "static/js/156.f14b13bb.chunk.js": "/LearnToCode/static/js/156.f14b13bb.chunk.js",
+    "index.html": "/LearnToCode/index.html",
+    "main.656aaead.js.map": "/LearnToCode/static/js/main.656aaead.js.map",
+    "156.f14b13bb.chunk.js.map": "/LearnToCode/static/js/156.f14b13bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.656aaead.js"
+  ]
+}
