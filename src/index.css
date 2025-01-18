@@ -9,4 +9,6 @@
     box-sizing: border-box;
     background: black;
   }
-  
+  html,body{
+    overflow-x: hidden;
+  }
