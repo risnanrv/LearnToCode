@@ -17,7 +17,7 @@ function MainContent() {
         e.preventDefault();
         if(name.trim !== ""){
           localStorage.setItem("username", name)
-          navigate("/x")
+          navigate("/categories")
         }
         else{
           alert("Enter Your Name !!")
