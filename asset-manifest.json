@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/LearnToCode/static/css/main.c0eee498.css",
-    "main.js": "/LearnToCode/static/js/main.e26df812.js",
+    "main.css": "/LearnToCode/static/css/main.061d4092.css",
+    "main.js": "/LearnToCode/static/js/main.d5ce496e.js",
     "static/js/156.f14b13bb.chunk.js": "/LearnToCode/static/js/156.f14b13bb.chunk.js",
     "static/media/Banner.png": "/LearnToCode/static/media/Banner.a945de6b2b02509c2434.png",
+    "static/media/Logo-NoBg.png": "/LearnToCode/static/media/Logo-NoBg.3956a4d94f98f980826f.png",
     "index.html": "/LearnToCode/index.html",
-    "main.c0eee498.css.map": "/LearnToCode/static/css/main.c0eee498.css.map",
-    "main.e26df812.js.map": "/LearnToCode/static/js/main.e26df812.js.map",
+    "main.061d4092.css.map": "/LearnToCode/static/css/main.061d4092.css.map",
+    "main.d5ce496e.js.map": "/LearnToCode/static/js/main.d5ce496e.js.map",
     "156.f14b13bb.chunk.js.map": "/LearnToCode/static/js/156.f14b13bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0eee498.css",
-    "static/js/main.e26df812.js"
+    "static/css/main.061d4092.css",
+    "static/js/main.d5ce496e.js"
   ]
 }
