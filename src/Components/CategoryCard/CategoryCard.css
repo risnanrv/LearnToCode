@@ -1,0 +1,34 @@
+
+.category-cards{
+   
+}
+.card{
+    width: 137px;
+    height: 207px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.category-logo{
+   background: white;
+}
+.card-title{
+    text-align: center;
+    color: white;
+    margin-top: -10px;
+   
+}
+.learn-btn{
+    background: white;
+    color: black;
+    font-weight: 800;
+    border: none;
+    width: 101px;
+    height: 32px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+@med

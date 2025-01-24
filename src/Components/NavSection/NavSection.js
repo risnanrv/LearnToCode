@@ -8,6 +8,7 @@ import { MdLogout } from "react-icons/md";
 import { FaSearch } from "react-icons/fa";
 import { IoPersonCircleSharp } from "react-icons/io5";
 import { Navbar } from 'react-bootstrap';
+import CategoryCard from '../CategoryCard/CategoryCard';
 
 const NavbarSection = () => {
   const storedName = localStorage.getItem("username");
@@ -46,7 +47,7 @@ const NavbarSection = () => {
             </div>
 
             <div className="doubt-btn-container d-none d-md-flex">
-              <button className="doubt-btn"><FaQuestionCircle />&nbsp;&nbsp;&nbsp;Ask Your Doubts</button>
+              <button  className="doubt-btn"><FaQuestionCircle />&nbsp;&nbsp;&nbsp;Ask Your Doubts</button>
             </div>
 
             <div className="username-container">
@@ -55,7 +56,7 @@ const NavbarSection = () => {
           </div>
 
           <div className="page-content">
-            {/* Add page content here */}
+            <CategoryCard/>
           </div>
         </div>
       </div>

@@ -6,6 +6,7 @@ function Categories() {
   return (
     <div>
     <NavSection/>
+   
     </div>
   )
 }

@@ -1,9 +1,11 @@
- *{
+*{
   background: rgb(20,20,20);
+  box-sizing: border-box;
  }
   .main-section {
     display: flex;
     height: 100vh;
+    overflow: hidden;
   }.sidebar {
     width: 200px;
     color: white;
@@ -47,6 +49,7 @@
     display: flex;
     flex-direction: column;
     background: black;
+    height: calc(100vh - 65px);
   }
   .topbar {
     height: 65px;
@@ -101,6 +104,7 @@
     background-color: black;
     color: white;
     padding: 20px;
+    overflow-y: auto;
   }
   .top-logo img{
     width: 130px;
@@ -119,5 +123,8 @@
       list-style: none;
      margin-top: 120px;
       font-size: 15px;
+    }
+    .page-content{
+      overflow-y: auto;
     }
   }
