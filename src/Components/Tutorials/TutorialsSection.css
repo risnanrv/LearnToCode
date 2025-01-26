@@ -1,0 +1,83 @@
+.tutorial-head {
+    text-align: center;
+    color: white;
+    margin-top: 50px;
+  }
+  
+  .tutorial-head h1 {
+    margin-bottom: 20px;
+  }
+  
+  .tutorial-head p {
+    margin-bottom: 50px;
+  }
+  
+  .sub-heading {
+    color: white;
+    margin-top: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; /* Adds spacing between cards */
+    justify-content: center; /* Centers the cards in the container */
+  }
+  
+  .card-video {
+    width: 250px;
+    height: 350px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #333; /* Example background color */
+    margin: 0 auto;
+    margin-bottom: 100px;
+  }
+  
+  .tutorials-logo {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  .card-body {
+    padding: 15px;
+    color: white;
+    text-align: center;
+  }
+  
+  .start-btn-video,
+  .start-btn-web,
+  .details-btn {
+    background: white;
+    color: black;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+  }
+  
+  .start-btn-video:hover,
+  .start-btn-web:hover,
+  .details-btn:hover {
+    background: black;
+    color: white;
+  }
+  
+  .card-web {
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+    background-color: #444;
+    text-align: center;
+    padding: 15px;
+  }
+  

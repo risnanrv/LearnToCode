@@ -1,9 +1,10 @@
 import React from 'react'
-import './Tutorials.css'
+import TutorialsSection from '../Components/Tutorials/TutorialsSection'
+
 function Tutorials() {
   return (
     <div>
-      
+      <TutorialsSection/>
     </div>
   )
 }
